@@ -1,5 +1,5 @@
 pragma solidity ^0.8.0;
-import "node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import {ERC20} from "node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 
 contract WSansu is ERC20 {
